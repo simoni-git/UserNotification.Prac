@@ -1,0 +1,2 @@
+- UserNoticications 프레임워크를 활용한 알림예제.
+- 추가 삭제 버튼과 updateNotification 메서드를 활용하여 데이터와 알림과의 연동
